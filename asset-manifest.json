@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://simmika.github.io/csb-f1pez1/static/css/main.37ff9620.chunk.css",
-    "main.js": "https://simmika.github.io/csb-f1pez1/static/js/main.ecdeeaff.chunk.js",
-    "main.js.map": "https://simmika.github.io/csb-f1pez1/static/js/main.ecdeeaff.chunk.js.map",
+    "main.js": "https://simmika.github.io/csb-f1pez1/static/js/main.06fab706.chunk.js",
+    "main.js.map": "https://simmika.github.io/csb-f1pez1/static/js/main.06fab706.chunk.js.map",
     "runtime-main.js": "https://simmika.github.io/csb-f1pez1/static/js/runtime-main.45565986.js",
     "runtime-main.js.map": "https://simmika.github.io/csb-f1pez1/static/js/runtime-main.45565986.js.map",
-    "static/js/2.78e8b571.chunk.js": "https://simmika.github.io/csb-f1pez1/static/js/2.78e8b571.chunk.js",
-    "static/js/2.78e8b571.chunk.js.map": "https://simmika.github.io/csb-f1pez1/static/js/2.78e8b571.chunk.js.map",
+    "static/js/2.d21240f2.chunk.js": "https://simmika.github.io/csb-f1pez1/static/js/2.d21240f2.chunk.js",
+    "static/js/2.d21240f2.chunk.js.map": "https://simmika.github.io/csb-f1pez1/static/js/2.d21240f2.chunk.js.map",
     "index.html": "https://simmika.github.io/csb-f1pez1/index.html",
     "static/css/main.37ff9620.chunk.css.map": "https://simmika.github.io/csb-f1pez1/static/css/main.37ff9620.chunk.css.map",
-    "static/js/2.78e8b571.chunk.js.LICENSE.txt": "https://simmika.github.io/csb-f1pez1/static/js/2.78e8b571.chunk.js.LICENSE.txt"
+    "static/js/2.d21240f2.chunk.js.LICENSE.txt": "https://simmika.github.io/csb-f1pez1/static/js/2.d21240f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45565986.js",
-    "static/js/2.78e8b571.chunk.js",
+    "static/js/2.d21240f2.chunk.js",
     "static/css/main.37ff9620.chunk.css",
-    "static/js/main.ecdeeaff.chunk.js"
+    "static/js/main.06fab706.chunk.js"
   ]
 }
